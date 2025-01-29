@@ -1,9 +1,12 @@
 @import "tailwindcss";
 
 .main-bg {
-  background-color: grey;
+  /* background-color: grey; */
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+.login {
+  height: 90vh;
+}
